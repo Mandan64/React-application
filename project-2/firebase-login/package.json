@@ -1,13 +1,12 @@
 {
-  "name": "u-survey",
+  "name": "firebase-login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "firebase": "^5.4.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.5",
-    "uuid": "^3.3.2"
+    "react-scripts": "1.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
